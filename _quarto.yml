@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "sky world"
+  navbar:
+    left:
+      - file: index.qmd
+        text: Home
+      - file: map.qmd
+        text: Map
+      - file: campus_life.qmd
+        text: campus life
+      - file: lm.qmd
+        text: Language Models
+
+format:
+  html:
+    theme: cosmo

@@ -1,0 +1,8 @@
+---
+title: "Language Models"
+format: html
+---
+
+This fall, l have learned about language model.
+
+novel–\> [Jane austen](austen.html)
