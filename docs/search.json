@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "food.html",
-    "href": "food.html",
-    "title": "Local Food",
-    "section": "",
-    "text": "군산 짬뽕 특징\n대표 가게 예시\n\n\n\n\n\n회, 해물 요리, 횟집 분위기\n\n\n\n\n\n백반, 김치찌개, 경양식 느낌 식당들"
-  },
-  {
-    "objectID": "food.html#local-food-in-gunsan",
-    "href": "food.html#local-food-in-gunsan",
-    "title": "Local Food",
-    "section": "",
-    "text": "군산 짬뽕 특징\n대표 가게 예시\n\n\n\n\n\n회, 해물 요리, 횟집 분위기\n\n\n\n\n\n백반, 김치찌개, 경양식 느낌 식당들"
-  },
-  {
-    "objectID": "lm.html",
-    "href": "lm.html",
-    "title": "Language Models",
-    "section": "",
-    "text": "This fall, l have learned about language model.\nnovel–&gt; Jane austen"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
@@ -33,6 +12,41 @@
     "title": "Home",
     "section": "✨ What You Can Explore",
     "text": "✨ What You Can Explore\n\n\n🏛 Modern History Street\nWalk through red-brick buildings, old banks, and a customs house that tell the story of Korea’s modern era.\nExplore the story →\n\n\n📍 Places to Go\nFrom the Modern History Street to Gogunsan Islands and sunset viewpoints, Gunsan is full of quiet yet powerful scenery.\nSee must-visit spots →\n\n\n🍞 Bakeries & Cafés\nFollow the smell of freshly baked bread and coffee through the streets of Gunsan and find your own cozy corner.\nStart the bakery tour →"
+  },
+  {
+    "objectID": "lm.html",
+    "href": "lm.html",
+    "title": "Language Models",
+    "section": "",
+    "text": "This fall, l have learned about language model.\nnovel–&gt; Jane austen"
+  },
+  {
+    "objectID": "story.html",
+    "href": "story.html",
+    "title": "Gunsan Story",
+    "section": "",
+    "text": "A port city shaped by the sea, modern history, and quiet charm.\nGunsan is a coastal city on the west coast of Korea, where the Geum River meets the Yellow Sea.\nHistorically, it grew as a strategic trade port, and today it blends modern industry, island scenery, and cultural heritage into a unique landscape.\n\n\n\nGunsan’s history changed significantly when it became an open port in 1899, allowing foreign trade—especially the export of rice from the Honam Plain.\nDuring the Japanese occupation (1910–1945), the city developed rapidly as Japan built large-scale facilities:\n\nGunsan Customs House and old bank buildings in red brick\n\nWarehouses and piers used for transporting rice\n\nA floating pier that showed advanced engineering at the time\n\nToday, these places remain part of Gunsan’s Modern History District, turning the city into a kind of “open-air museum” of Korea’s modern era.\n\n\n\n\nGunsan is not just a port—it is a city built in distinct layers, each representing a different face of the city.\n\n\n\nThe Gogunsan Islands, including Seonyudo, Munyeodo, and Sinsido\n\nIsland bridges and coastal roads with wide sea views\n\nFamous sunset points and quiet beaches\n\nPopular cycling and driving routes\n\n\n\n\n\nThe lower Geum River and its wide river mouth\n\nMigratory birds visiting wetlands and estuaries\n\nEco-parks and observatories for birdwatching and nature walks\n\n\n\n\n\nOld Japanese-style houses and warehouses mixed with new cafés\n\nRetro streets like Gyeongam-dong Railroad Village\n\nSmall alleys, murals, and streets that are perfect for walking and taking photos\n\n\n\n\n\n\n\nAll images shown are AI-generated.\n\n\n\n\n\n\nA calm view where the river meets the sea.\n\n\n\n\n\nRed-brick buildings and old banks from Korea’s early modern era.\n\n\n\n\n\n\n\n\nBridges, sea, and island silhouettes against the sunset.\n\n\n\n\n\nRetro alleys and an old railway turned into a photo-friendly street."
+  },
+  {
+    "objectID": "story.html#a-port-opened-to-the-world",
+    "href": "story.html#a-port-opened-to-the-world",
+    "title": "Gunsan Story",
+    "section": "",
+    "text": "Gunsan’s history changed significantly when it became an open port in 1899, allowing foreign trade—especially the export of rice from the Honam Plain.\nDuring the Japanese occupation (1910–1945), the city developed rapidly as Japan built large-scale facilities:\n\nGunsan Customs House and old bank buildings in red brick\n\nWarehouses and piers used for transporting rice\n\nA floating pier that showed advanced engineering at the time\n\nToday, these places remain part of Gunsan’s Modern History District, turning the city into a kind of “open-air museum” of Korea’s modern era."
+  },
+  {
+    "objectID": "story.html#layers-of-the-city",
+    "href": "story.html#layers-of-the-city",
+    "title": "Gunsan Story",
+    "section": "",
+    "text": "Gunsan is not just a port—it is a city built in distinct layers, each representing a different face of the city.\n\n\n\nThe Gogunsan Islands, including Seonyudo, Munyeodo, and Sinsido\n\nIsland bridges and coastal roads with wide sea views\n\nFamous sunset points and quiet beaches\n\nPopular cycling and driving routes\n\n\n\n\n\nThe lower Geum River and its wide river mouth\n\nMigratory birds visiting wetlands and estuaries\n\nEco-parks and observatories for birdwatching and nature walks\n\n\n\n\n\nOld Japanese-style houses and warehouses mixed with new cafés\n\nRetro streets like Gyeongam-dong Railroad Village\n\nSmall alleys, murals, and streets that are perfect for walking and taking photos"
+  },
+  {
+    "objectID": "story.html#photo-highlights",
+    "href": "story.html#photo-highlights",
+    "title": "Gunsan Story",
+    "section": "",
+    "text": "All images shown are AI-generated.\n\n\n\n\n\n\nA calm view where the river meets the sea.\n\n\n\n\n\nRed-brick buildings and old banks from Korea’s early modern era.\n\n\n\n\n\n\n\n\nBridges, sea, and island silhouettes against the sunset.\n\n\n\n\n\nRetro alleys and an old railway turned into a photo-friendly street."
   },
   {
     "objectID": "spots.html",
@@ -77,6 +91,41 @@
     "text": "All images in this guide were generated with AI for illustrative purposes."
   },
   {
+    "objectID": "bakeries.html",
+    "href": "bakeries.html",
+    "title": "Bakeries",
+    "section": "",
+    "text": "🥐 Bakery Tour in Gunsan\nWarm bread, cozy streets, and sweet moments in a port city.\n\n\n\n  \n  \n\n    🥐\n\n    이성당(Leesungdang)\n\n    \n      Korea’s oldest bakery with classic red-bean bread and a nostalgic retro charm.\n    \n\n    \n      \n      \n    \n  \n\n\n\n\n\n\n  \n\n    🥖\n\n    영국빵집 (British Bakery)\n\n    \n      A beloved local bakery offering comforting breads and a calm,\n      neighborhood atmosphere.\n    \n\n    \n      \n      \n    \n  \n\n\n  \n\n    🍰\n\n    물밀소 (Mulmilso)\n\n    \n      A refined bakery known for clean flavors, delicate desserts,\n      and a minimalist aesthetic.\n    \n\n    \n      \n      \n    \n  \n\n---\n\n\n  All images on this site are AI-generated for illustrative purposes."
+  },
+  {
+    "objectID": "cafes.html",
+    "href": "cafes.html",
+    "title": "Cafés",
+    "section": "",
+    "text": "☕ Café Crawl in Gunsan\n\n\n  \n\n    \n    \n      \n        ☕\n        \n          리즈리 (Leezlee)\n          Signature coffee · Garden mood\n        \n      \n\n      \n        A calm café with signature drinks — perfect for a slow afternoon.\n      \n\n      \n        Recommended Menu\n        \n          가든라떼₩8,500\n          리즈리 1904₩7,500\n          코코넛 커피₩8,000\n        \n      \n\n      \n\n  📍 Google Maps\n\n\n\n        \n          🗺️ Map\n        \n      \n\n      \n        \n      \n    \n\n    \n    \n      \n        🍽️\n        \n          브리덤 커피 (Bridom Coffee)\n          Brunch · French toast\n        \n      \n\n      \n        Brunch-focused café with rich plates and a cozy European mood.\n      \n\n      \n        Recommended Menu\n        \n          브런치 플레터₩15,800\n          무화과 프렌치토스트₩12,800\n          크림새우치즈퐁듀₩15,800\n        \n      \n\n      \n\n  📍 Google Maps\n\n\n\n        \n          🗺️ Map\n        \n      \n\n      \n        \n      \n    \n\n    \n    \n      \n        🥐\n        \n          음미당 (Eummidang)\n          Crepes · Light brunch\n        \n      \n\n      \n        A minimalist brunch café with gentle flavors and calm atmosphere.\n      \n\n      \n        Recommended Menu\n        \n          음미당 브런치₩8,000\n          크레이프 세트₩11,900\n          치아바타 샌드위치₩9,000\n        \n      \n\n      \n\n  📍 Google Maps\n\n\n        \n          🗺️ Map\n        \n      \n\n      \n        \n      \n    \n\n  \n\n  \n    All images on this site are AI-generated for illustrative purposes."
+  },
+  {
+    "objectID": "cafes.html#cafés-in-gunsan",
+    "href": "cafes.html#cafés-in-gunsan",
+    "title": "Cafés",
+    "section": "",
+    "text": "분위기 좋은 카페\n뷰 좋은 카페\n디저트 맛있는 카페\n\n나중에 카페별 카드 레이아웃으로 바꿔도 좋아."
+  },
+  {
+    "objectID": "food.html",
+    "href": "food.html",
+    "title": "Local Food",
+    "section": "",
+    "text": "🍽 Local Food in Gunsan\n\n\n  \n  \n    Gunsan Eats\n    Colorful Bites, Local Vibes\n    \n      Spicy noodles, fresh harbor dishes, and comforting home-style meals.\n    \n\n    \n      🍜 Jjamppong\n      🐟 Seafood\n      🍚 Home-style\n      ⭐ Must-try\n    \n  \n\n  \n  \n    \n      🍜\n      \n        Chinese Classics\n        \n          Fast comfort food — jjajangmyeon, jjamppong, and crispy tangsuyuk.\n        \n      \n      Hot\n    \n\n    \n\n      \n      \n        \n          Local\n          동네중국집\n        \n\n        \n          Signature짜장면 · 짬뽕 · 탕수육\n          Prices₩7,000 / ₩9,000 / ₩17,000\n          Best forQuick meal · Classic comfort\n\n          \n            🌶 Spicy\n            🍜 Noodles\n            ⭐ Classic\n          \n\n          \n            📍 Map\n            🗺️ Embed\n          \n\n          \n            \n          \n        \n      \n\n    \n  \n\n  \n  \n    \n      🍚\n      \n        Home-style Meals\n        \n          Warm rice, comforting sides, and local everyday favorites.\n        \n      \n      Comfort\n    \n\n    \n\n      \n      \n        \n          Must\n          토실배기\n        \n\n        \n          Signature돼지불고기 백반\n          Price₩12,000 (per person)\n          Best forHearty lunch · Real local vibes\n\n          \n            🍚 Rice\n            🥘 Set meal\n            ⭐ Filling\n          \n\n          \n            📍 Map\n            🗺️ Embed\n          \n\n          \n            \n          \n        \n      \n\n      \n      \n        \n          Group\n          은파종점\n        \n\n        \n          Signature닭도리탕(스타일) · 단체 식사\n          Price2인 ₩32,000 · 3인 ₩48,000\n          Best forFriends · Family · Warm shared meal\n\n          \n            🍲 Shared\n            🔥 Hot pot\n            👥 Group\n          \n\n          \n            📍 Map\n            🗺️ Embed\n          \n\n          \n            \n          \n        \n      \n\n    \n  \n\n  \n    All images on this site are AI-generated for illustrative purposes."
+  },
+  {
+    "objectID": "food.html#local-food-in-gunsan",
+    "href": "food.html#local-food-in-gunsan",
+    "title": "Local Food",
+    "section": "",
+    "text": "군산 짬뽕 특징\n대표 가게 예시\n\n\n\n\n\n회, 해물 요리, 횟집 분위기\n\n\n\n\n\n백반, 김치찌개, 경양식 느낌 식당들"
+  },
+  {
     "objectID": "map.html",
     "href": "map.html",
     "title": "Must-Visit Spots",
@@ -119,27 +168,6 @@
     "text": "All images in this guide were generated with AI for illustrative purposes."
   },
   {
-    "objectID": "cafes.html",
-    "href": "cafes.html",
-    "title": "Cafés",
-    "section": "",
-    "text": "분위기 좋은 카페\n뷰 좋은 카페\n디저트 맛있는 카페\n\n나중에 카페별 카드 레이아웃으로 바꿔도 좋아."
-  },
-  {
-    "objectID": "cafes.html#cafés-in-gunsan",
-    "href": "cafes.html#cafés-in-gunsan",
-    "title": "Cafés",
-    "section": "",
-    "text": "분위기 좋은 카페\n뷰 좋은 카페\n디저트 맛있는 카페\n\n나중에 카페별 카드 레이아웃으로 바꿔도 좋아."
-  },
-  {
-    "objectID": "bakeries.html",
-    "href": "bakeries.html",
-    "title": "Bakeries",
-    "section": "",
-    "text": "🥐 Bakery Tour in Gunsan\nWarm bread, cozy streets, and sweet moments in a port city.\n\n\n\n  \n  \n    \n    🥐\n\n    Bakery 1 — Leesungdang\n\n    \n      Korea’s oldest bakery with classic red-bean bread and a nostalgic retro charm.\n    \n\n    \n      단팥빵\n      야채빵\n    \n\n    📍 View on Google Maps\n  \n\n  \n  \n    \n    🥖\n\n    Bakery 2 — (Name)\n\n    \n      A warm bakery café perfect for reading, relaxing, and enjoying gentle latte vibes.\n    \n\n    \n      크루아상\n      라떼\n    \n\n    📍 View on Google Maps\n  \n\n  \n  \n    \n    🍰\n\n    Bakery 3 — (Name)\n\n    \n      A dessert-focused bakery with beautifully plated cakes and photogenic interiors.\n    \n\n    \n      케이크\n      티라미수\n    \n\n    📍 View on Google Maps\n  \n\n\n\n---\n\n\n  All images on this site are AI-generated for illustrative purposes."
-  },
-  {
     "objectID": "about.html#about-about.qmd",
     "href": "about.html#about-about.qmd",
     "title": "Gunsan Travel Guide",
@@ -161,31 +189,10 @@
     "text": "About This Site\nThis website was created as a small guide to Gunsan.\n\nAuthor: Park Haneul\n\nPurpose: Introduce Gunsan’s places, stories, bakeries, cafés, and local food.\n\nTools: Quarto, RStudio, simple HTML & CSS.\n\nYou can use this site as a travel reference, portfolio piece, or a practice project for web publishing."
   },
   {
-    "objectID": "story.html",
-    "href": "story.html",
-    "title": "Gunsan Story",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About This Site",
     "section": "",
-    "text": "A port city shaped by the sea, modern history, and quiet charm.\nGunsan is a coastal city on the west coast of Korea, where the Geum River meets the Yellow Sea.\nHistorically, it grew as a strategic trade port, and today it blends modern industry, island scenery, and cultural heritage into a unique landscape.\n\n\n\nGunsan’s history changed significantly when it became an open port in 1899, allowing foreign trade—especially the export of rice from the Honam Plain.\nDuring the Japanese occupation (1910–1945), the city developed rapidly as Japan built large-scale facilities:\n\nGunsan Customs House and old bank buildings in red brick\n\nWarehouses and piers used for transporting rice\n\nA floating pier that showed advanced engineering at the time\n\nToday, these places remain part of Gunsan’s Modern History District, turning the city into a kind of “open-air museum” of Korea’s modern era.\n\n\n\n\nGunsan is not just a port—it is a city built in distinct layers, each representing a different face of the city.\n\n\n\nThe Gogunsan Islands, including Seonyudo, Munyeodo, and Sinsido\n\nIsland bridges and coastal roads with wide sea views\n\nFamous sunset points and quiet beaches\n\nPopular cycling and driving routes\n\n\n\n\n\nThe lower Geum River and its wide river mouth\n\nMigratory birds visiting wetlands and estuaries\n\nEco-parks and observatories for birdwatching and nature walks\n\n\n\n\n\nOld Japanese-style houses and warehouses mixed with new cafés\n\nRetro streets like Gyeongam-dong Railroad Village\n\nSmall alleys, murals, and streets that are perfect for walking and taking photos\n\n\n\n\n\n\n\nAll images shown are AI-generated.\n\n\n\n\n\n\nA calm view where the river meets the sea.\n\n\n\n\n\nRed-brick buildings and old banks from Korea’s early modern era.\n\n\n\n\n\n\n\n\nBridges, sea, and island silhouettes against the sunset.\n\n\n\n\n\nRetro alleys and an old railway turned into a photo-friendly street."
-  },
-  {
-    "objectID": "story.html#a-port-opened-to-the-world",
-    "href": "story.html#a-port-opened-to-the-world",
-    "title": "Gunsan Story",
-    "section": "",
-    "text": "Gunsan’s history changed significantly when it became an open port in 1899, allowing foreign trade—especially the export of rice from the Honam Plain.\nDuring the Japanese occupation (1910–1945), the city developed rapidly as Japan built large-scale facilities:\n\nGunsan Customs House and old bank buildings in red brick\n\nWarehouses and piers used for transporting rice\n\nA floating pier that showed advanced engineering at the time\n\nToday, these places remain part of Gunsan’s Modern History District, turning the city into a kind of “open-air museum” of Korea’s modern era."
-  },
-  {
-    "objectID": "story.html#layers-of-the-city",
-    "href": "story.html#layers-of-the-city",
-    "title": "Gunsan Story",
-    "section": "",
-    "text": "Gunsan is not just a port—it is a city built in distinct layers, each representing a different face of the city.\n\n\n\nThe Gogunsan Islands, including Seonyudo, Munyeodo, and Sinsido\n\nIsland bridges and coastal roads with wide sea views\n\nFamous sunset points and quiet beaches\n\nPopular cycling and driving routes\n\n\n\n\n\nThe lower Geum River and its wide river mouth\n\nMigratory birds visiting wetlands and estuaries\n\nEco-parks and observatories for birdwatching and nature walks\n\n\n\n\n\nOld Japanese-style houses and warehouses mixed with new cafés\n\nRetro streets like Gyeongam-dong Railroad Village\n\nSmall alleys, murals, and streets that are perfect for walking and taking photos"
-  },
-  {
-    "objectID": "story.html#photo-highlights",
-    "href": "story.html#photo-highlights",
-    "title": "Gunsan Story",
-    "section": "",
-    "text": "All images shown are AI-generated.\n\n\n\n\n\n\nA calm view where the river meets the sea.\n\n\n\n\n\nRed-brick buildings and old banks from Korea’s early modern era.\n\n\n\n\n\n\n\n\nBridges, sea, and island silhouettes against the sunset.\n\n\n\n\n\nRetro alleys and an old railway turned into a photo-friendly street."
+    "text": "Portfolio Profile\n    Park Haneul\n    \n     \n    \n\n    \n      \n        \n          PH\n        \n\n        \n          Park Haneul\n          English Language & Literature · Gunsan University\n          Student ID: 2201327\n\n          \n            sky0504@kunsan.ac.kr\n          \n\n          \n            Quarto\n            RStudio\n            HTML/CSS\n            Travel Writing\n          \n        \n      \n\n      \n        About this project\n        \n          This site was created as a personal portfolio project to introduce Gunsan — its stories,\n          places to visit, bakeries, cafés, and local food — in a warm, visual, and easy-to-browse way.\n        \n\n        \n          \n            📍\n            Theme\n            Gunsan city guide\n          \n\n          \n            🧁\n            Focus\n            Food · cafés · bakeries\n          \n\n          \n            🧱\n            Build\n            Quarto website\n          \n\n          \n            ✨\n            Goal\n            Portfolio + practice\n          \n        \n\n        \n          🏠 Back to Home\n          🗺️ Photo Map\n        \n      \n    \n\n    \n      All images on this site are AI-generated for illustrative purposes."
   }
 ]
